@@ -19,6 +19,7 @@
 ---
 
 <h3 align="center">🔨 Languages and Tools:</h3>
-    <p align="center">
-        <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg' height='42px'/>
-    </p>
+    <div align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height='42px'/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="JAVA" alt="JAVA" width="40" height="40"/>&nbsp;
+    </div>

@@ -25,5 +25,5 @@
         <img src='https://github.com/setr4y/setr4y/blob/main/icons/java.svg' width="50" height="50"/>
         <img src='https://github.com/setr4y/setr4y/blob/main/icons/python.svg' width="45" height="45"/>
         <img src='https://github.com/setr4y/setr4y/blob/main/icons/mysql.svg' width="55" height="50"/>
-        <img src='https://github.com/setr4y/setr4y/blob/main/icons/typescript.svg' width="45" height="45"/>
+        <img src='https://github.com/setr4y/setr4y/blob/main/icons/typescript.svg' width="40" height="40"/>
     </div>

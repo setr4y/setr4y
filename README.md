@@ -14,6 +14,12 @@
 
 - 🔐 **Cybersecurity**
 
+<div align="center">
+    <h3>🔨 Languages and Tools:</h3>
+    <div>
+        
+    </div>
+</div>
 
 <!-- ### Hi there 👋 -->
 

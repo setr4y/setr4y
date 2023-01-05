@@ -23,5 +23,5 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="JAVA" alt="JAVA" width="60" height="60"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="PYTHON" width="50" height="50"/>
     
-        <img src="https://raw.githubusercontent.com/setr4y/setr4y/blob/master/icons/java.png" title="PYTHON" alt="PYTHON" width="50" height="50"/>
+        <img src="raw.githubusercontent.com/setr4y/setr4y/main/icons/java.png" title="JAVA" alt="JAVA" width="50" height="50"/>
     </div>

@@ -28,15 +28,15 @@
         <img src='https://github.com/setr4y/setr4y/blob/main/icons/mysql.svg' title="MySQL" alt="MySQL" width="55" height="50"/>
         <img src='https://github.com/setr4y/setr4y/blob/main/icons/typescript.svg' title="TypeScript" alt="TypeScript" width="40" height="40"/>
         <img src='https://github.com/setr4y/setr4y/blob/main/icons/nodejs.svg' title="NodeJS" alt="NodeJs" width="45" height="45"/>
-        <img src='https://github.com/setr4y/setr4y/blob/main/icons/mongodb.svg' title="MongoDB" alt="MongoDB" width="40" height="40"/>
-        <img src='https://github.com/setr4y/setr4y/blob/main/icons/spring.svg' title="Spring" alt="Spring" width="50" height="50"/>
-        <img src='https://github.com/setr4y/setr4y/blob/main/icons/linux.svg' title="Linux" alt="Linux" width="50" height="50"/>
-        <img src='https://github.com/setr4y/setr4y/blob/main/icons/git.svg' title="Git" alt="Git" width="50" height="50"/>
-        <img src='https://github.com/setr4y/setr4y/blob/main/icons/bash.svg' title="Bash" alt="Bash" width="50" height="50"/>
-        <img src='https://github.com/setr4y/setr4y/blob/main/icons/gitlab.svg' title="GitLab" alt="GitLab" width="50" height="50"/>
-        <img src='https://github.com/setr4y/setr4y/blob/main/icons/oracle.svg' title="Oracle" alt="Oracle" width="50" height="50"/>
-        <img src='https://github.com/setr4y/setr4y/blob/main/icons/slack.svg' title="Slack" alt="Slack" width="50" height="50"/>
-        <img src='https://github.com/setr4y/setr4y/blob/main/icons/html5.svg' title="HTML5" alt="HTML5" width="50" height="50"/>
-        <img src='https://github.com/setr4y/setr4y/blob/main/icons/css3.svg' title="CSS" alt="CSS" width="50" height="50"/>
-        <img src='https://github.com/setr4y/setr4y/blob/main/icons/bootstrap.svg' title="BootStrap" alt="BootStrap" width="50" height="50"/>
+        <img src='https://github.com/setr4y/setr4y/blob/main/icons/mongodb.svg' title="MongoDB" alt="MongoDB" width="45" height="45"/>
+        <img src='https://github.com/setr4y/setr4y/blob/main/icons/spring.svg' title="Spring" alt="Spring" width="45" height="45"/>
+        <img src='https://github.com/setr4y/setr4y/blob/main/icons/linux.svg' title="Linux" alt="Linux" width="45" height="45"/>
+        <img src='https://github.com/setr4y/setr4y/blob/main/icons/git.svg' title="Git" alt="Git" width="45" height="45"/>
+        <img src='https://github.com/setr4y/setr4y/blob/main/icons/bash.svg' title="Bash" alt="Bash" width="45" height="45"/>
+        <img src='https://github.com/setr4y/setr4y/blob/main/icons/gitlab.svg' title="GitLab" alt="GitLab" width="45" height="45"/>
+        <img src='https://github.com/setr4y/setr4y/blob/main/icons/oracle.svg' title="Oracle" alt="Oracle" width="45" height="45"/>
+        <img src='https://github.com/setr4y/setr4y/blob/main/icons/slack.svg' title="Slack" alt="Slack" width="45" height="45"/>
+        <img src='https://github.com/setr4y/setr4y/blob/main/icons/html5.svg' title="HTML5" alt="HTML5" width="45" height="45"/>
+        <img src='https://github.com/setr4y/setr4y/blob/main/icons/css3.svg' title="CSS" alt="CSS" width="45" height="45"/>
+        <img src='https://github.com/setr4y/setr4y/blob/main/icons/bootstrap.svg' title="BootStrap" alt="BootStrap" width="45" height="45"/>
     </div>

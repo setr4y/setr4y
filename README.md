@@ -2,15 +2,18 @@
     <h1>Hello, Dev's 👋</h1>
 </div>
 
+### 👨‍💻 About Me :
+
 <div>
     <p>My name is Sergio aka "Setr4y".</p>
 </div>
 
-<ul>
-  <li>🖥 Software Engineer</li>
-  <li>👷 Back-End Developer</li>
-  <li>🔐 Cybersecurity</li>
-</ul>
+- 🖥 **Software Engineer**
+
+- 👷 **Back-End Developer**
+
+- 🔐 **Cybersecurity**
+
 
 <!-- ### Hi there 👋 -->
 

@@ -22,8 +22,8 @@
     <div align="center">
         <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="JAVA" alt="JAVA" width="60" height="60"/> -->
         <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="PYTHON" width="50" height="50"/> -->
-        <img src='https://github.com/setr4y/setr4y/blob/main/icons/java.png' width="50" height="50"/>
-        <img src='https://github.com/setr4y/setr4y/blob/main/icons/python.png' width="45" height="45"/>
-        <img src='https://github.com/setr4y/setr4y/blob/main/icons/mysql.png' width="55" height="50"/>
+        <img src='https://github.com/setr4y/setr4y/blob/main/icons/java.svg' width="50" height="50"/>
+        <img src='https://github.com/setr4y/setr4y/blob/main/icons/python.svg' width="45" height="45"/>
+        <img src='https://github.com/setr4y/setr4y/blob/main/icons/mysql.svg' width="55" height="50"/>
         <img src='https://github.com/setr4y/setr4y/blob/main/icons/typescript.svg' width="45" height="45"/>
     </div>

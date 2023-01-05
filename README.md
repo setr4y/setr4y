@@ -31,4 +31,4 @@
     
 ![_](https://github.com/setr4y/setr4y/blob/main/icons/java.png)
 
-<img src='https://raw.githubusercontent.com/setr4y/setr4y/blob/main/icons/java.png' width="40" height="40"/>
+<img src='https://github.com/setr4y/setr4y/blob/main/icons/java.png' width="40" height="40"/>

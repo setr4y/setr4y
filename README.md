@@ -8,8 +8,8 @@
 
 <ul>
   <li>🖥 Software Engineer</li>
-  <li>Back-End Developer</li>
-  <li>Cybersecurity</li>
+  <li>👷 Back-End Developer</li>
+  <li>🔐 Cybersecurity</li>
 </ul>
 
 <!-- ### Hi there 👋 -->

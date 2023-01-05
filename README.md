@@ -2,6 +2,10 @@
     <h1>Hello, Dev's 👋</h1>
 </div>
 
+<div>
+    <p>My name is Sergio aka "Setr4y".</p>
+</div>
+
 <!-- ### Hi there 👋 -->
 
 <!--

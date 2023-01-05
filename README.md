@@ -25,4 +25,5 @@
         <img src='https://github.com/setr4y/setr4y/blob/main/icons/java.png' width="50" height="50"/>
         <img src='https://github.com/setr4y/setr4y/blob/main/icons/python.png' width="45" height="45"/>
         <img src='https://github.com/setr4y/setr4y/blob/main/icons/mysql.png' width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" width="50" height="50"/>
     </div>

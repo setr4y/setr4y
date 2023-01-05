@@ -7,7 +7,7 @@
 </div>
 
 <ul>
-  <li>Software Engineer</li>
+  <li>🖥 Software Engineer</li>
   <li>Back-End Developer</li>
   <li>Cybersecurity</li>
 </ul>

@@ -6,12 +6,11 @@
     <p>My name is Sergio aka "Setr4y".</p>
 </div>
 
-<ol>
-  <li>Julio</li>
-  <li>Carmen</li>
-  <li>Ignacio</li>
-  <li>Elena</li>
-</ol>
+<ul>
+  <li>Software Engineer</li>
+  <li>Back-End Developer</li>
+  <li>Cybersecurity</li>
+</ul>
 
 <!-- ### Hi there 👋 -->
 

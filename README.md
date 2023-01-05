@@ -14,6 +14,8 @@
 
 - 🔐 **Cybersecurity**
 
+---
+
 <h3 align="center">🔨 Languages and Tools:</h3>
     <p align="center"></p>
 

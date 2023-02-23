@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me :
 
 <div>
-    <p>My name is "Setr4y".</p>
+    <p>My name is "Sergio" aka "Setr4y".</p>
 </div>
 
 - 🖥 **Software Engineer**

@@ -10,8 +10,6 @@
     <p>My name is "Sergio" aka "Setr4y".</p>
 </div>
 
-- 🖥 **Software Engineer**
-
 - 👷 **Back-End Developer**
 
 - 🔐 **Cybersecurity**
